@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073529443002",
+    "project_id": "teacherdarbhanha",
+    "storage_bucket": "teacherdarbhanha.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073529443002:android:c9df15d0f6c08ba9a86883",
+        "android_client_info": {
+          "package_name": "com.teach.darbhanga.teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxd6DGVtMErTIJ3vWn61JGzrW01H1uqtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
